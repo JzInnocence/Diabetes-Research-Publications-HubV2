@@ -15,7 +15,7 @@ To run this subject, you need to
 * 5: Run XAMPP
 * 6: Open your broswer and start with http://localhost/DRPH/index.html
 
-To view demonstration on youtube, click [here](https://youtu.be/jqdv0jVYNyI)
+To view demonstration on youtube, click [here](https://youtu.be/jqdv0jVYNyI).
 Hope you enjoy it.
 
 Submitted by Jiazhou Li
