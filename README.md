@@ -9,9 +9,9 @@ Development of a Diabetes Research Publications Hub
 To run this subject, you need to 
 
 * 1: Download [XAMPP](https://www.apachefriends.org/download.html).  
-* 2: Put DRPH into XAMPP/htdocs/.  
+* 2: Download folder DRPH into XAMPP/htdocs/.  
 * 3: Establish a database and name it as "DiabetesResearchPublicationsHub".
-* 4: Import sql files provided in file "database_setup"
+* 4: Import sql files provided in folder "database_setup"
 * 5: Run XAMPP
 * 6: Open your broswer and start with http://localhost/DRPH/index.html
 
