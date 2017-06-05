@@ -15,6 +15,7 @@ To run this subject, you need to
 * 5: Run XAMPP
 * 6: Open your broswer and start with http://localhost/DRPH/index.html
 
+To view demonstration on youtube, click [here](https://github.com/JzInnocence/Diabetes-Research-Publications-HubV2).
 Hope you enjoy it.
 
 Submitted by Jiazhou Li
