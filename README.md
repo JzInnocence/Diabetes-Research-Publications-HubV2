@@ -4,6 +4,6 @@ COMP90055 - Computing Project
 
 Development of a Diabetes Research Publications Hub
 
-<b>Installing</b>
+<b><h1>Installing</h1></b>
 
 Submitted by Jiazhou Li
